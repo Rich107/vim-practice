@@ -24,7 +24,7 @@ def wrapped_values():
 # === 3. Change surround (cs) ===
 
 def quoting():
-    string = '*important*'  # TRY THIS: cs'`
+    string = 'important'  # TRY THIS: cs'`
     # Expected: string = `important`
 
 def taggy():
