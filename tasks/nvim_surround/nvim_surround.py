@@ -40,13 +40,15 @@ def surround_me():
 # === 5. Insert mode surround (<C-g>s) ===
 
 def insert_example():
-    item = key  # TRY THIS: In insert mode between '=' and 'k', press <C-g>s'
+    # TRY THIS: In insert mode between '=' and 'k', press <C-g>s'
+    item = key  
     # Expected: item = 'key'
 
 # === 6. yss / yS / ySS line variants ===
 
 def full_line():
-    print("wow full")  # TRY THIS: Put cursor anywhere and run yss"
+    # TRY THIS: Put cursor anywhere and run yss"
+    print("wow full")  
     # Expected: "print("wow full")"
 
 def block_tag():
