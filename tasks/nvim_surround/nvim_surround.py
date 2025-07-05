@@ -74,8 +74,10 @@ def header():
 # === 9. Aliases (b → ), r → ]) ===
 
 def alias_example():
-    stuff = item  # TRY THIS: yssb → expected: (stuff = item)
-    more = [another]  # TRY THIS: dsr → expected: more = another
+    # TRY THIS: yssb → expected: (stuff = item)
+    stuff = item  
+    # TRY THIS: dsr → expected: more = another
+    more = [another]  
 
 # === 10. Custom delimiters with 'i' ===
 
