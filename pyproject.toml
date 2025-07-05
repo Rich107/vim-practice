@@ -1,0 +1,4 @@
+[tool.pyright]
+enableReachabilityAnalysis = false
+typeCheckingMode = "basic"
+
