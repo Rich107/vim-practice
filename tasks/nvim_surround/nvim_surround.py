@@ -16,7 +16,7 @@ def greeting():
     # Expected: msg = "Hello"
 
 def plugin():
-    require'nvim-surround'  # TRY THIS: Put cursor inside string and run: ysa'")
+    require('nvim-surround')# TRY THIS: Put cursor inside string and run: cs'"
     # Expected: require("nvim-surround")
 
 # === 2. Delete surround (ds) ===
