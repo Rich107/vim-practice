@@ -67,7 +67,8 @@ def args_surround():
 # === 8. HTML tag with attribute ===
 
 def header():
-    title = Hello World  # TRY THIS: yssth1 id="main"
+    # TRY THIS: yssth1 id="main"
+    Hello World  
     # Expected: <h1 id="main">Hello World</h1>
 
 # === 9. Aliases (b → ), r → ]) ===
