@@ -1,1 +1,5 @@
-{"image":"mcr.microsoft.com/devcontainers/base:ubuntu"}
+{
+  "image":"mcr.microsoft.com/devcontainers/base:ubuntu",
+  "remoteUser": "root",
+  "workspaceFolder": "/code/"
+}
