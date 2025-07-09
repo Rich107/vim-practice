@@ -6,7 +6,7 @@ You could do this using multi cursors.
 
 wrong_list = {
     "red": "apple",
-    "yellow": "banana",
+    "yellow box": "banana",
     "purple": "grape",
     "orange": "orange",
     "brown": "kiwi",
