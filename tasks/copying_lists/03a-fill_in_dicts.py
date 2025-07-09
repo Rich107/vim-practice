@@ -15,7 +15,7 @@ incomplete_list = {
     "": "strawberry",
 }
 
-incomplete_list = {
+complete_list = {
     "red": "apple",
     "yellow": "banana",
     "purple": "grape",
